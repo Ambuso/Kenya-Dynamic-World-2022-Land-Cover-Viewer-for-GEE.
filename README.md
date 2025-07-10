@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [FAO GAUL](https://data.apps.fao.org/catalog/dataset/global-administrative-unit-layers-gaul) for administrative boundaries.
 
 ## Contact
-For questions or issues, please open an [Issue](https://github.com/your-username/kenya-land-cover-2022/issues) or contact [Your Name] at [your.email@example.com].
+For questions  [dismasmik3@gmail.com].
 
 ---
 *Last updated: July 10, 2025*
