@@ -1,0 +1,1 @@
+# Kenya-Dynamic-World-2022-Land-Cover-Viewer-for-GEE.
